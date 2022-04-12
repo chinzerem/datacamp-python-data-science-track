@@ -2,8 +2,8 @@
 
 ## List of Courses:
 
-- Introduction to Python
-- Intermediate Python
+- Introduction to Python ✔️
+- Intermediate Python ✔️
 - Data Manipulation with pandas
 - Joining Data with pandas
 - Introduction to Data Visualization with Matplotlib
@@ -31,7 +31,7 @@
 
 ## Projects:
 
-- Investigating Netflix Movies and Guest Stars in The Office
+- Investigating Netflix Movies and Guest Stars in The Office ✔️
 - The Android App Market on Google Play
 - The GitHub History of the Scala Language
 - A Visual History of Nobel Prize Winners
